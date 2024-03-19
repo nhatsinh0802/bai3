@@ -33,7 +33,7 @@ def merge(left, right):
 
 
 # Nhập vào n số nguyên
-n = int(input('Nhập số lượng số nguyên: '))
+n = int(input("Nhập số lượng số nguyên: "))
 arr = []
 for i in range(n):
     num = int(input("Nhập số nguyên thứ {}: ".format(i + 1)))
